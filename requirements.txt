@@ -153,3 +153,4 @@ wheel==0.43.0
 wrapt==1.16.0
 yarg==0.1.9
 opencv-python-headless
+python-multipart
